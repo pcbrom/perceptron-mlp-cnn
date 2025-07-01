@@ -83,7 +83,7 @@ O material teórico e metodológico está documentado no PDF [`Supervised_Learni
 
 ## 👨‍🔬 Autoria
 
-Projeto desenvolvido por Pedro Brom, George Fabrício, Charles Santos e Alexandro de Paula  
+Projeto desenvolvido por [Pedro Brom](https://github.com/pcbrom), George Fabrício, [Charles Santos](https://github.com/thyarles) e Alexandro de Paula  
 Programa de Pós-Graduação em Informática (PPGI) – Universidade de Brasília
 
 ---
