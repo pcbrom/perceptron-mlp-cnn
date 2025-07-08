@@ -15,12 +15,12 @@ Avaliar o desempenho e a interpretabilidade de diferentes modelos supervisionado
 
 | Arquivo                         | Descrição                                                                 |
 |--------------------------------|---------------------------------------------------------------------------|
-| `regressao_logistica.ipynb`    | Abordagem estatística clássica com ajuste linear, splines e calibração.  |
+| `logistic_regression.ipynb`    | Abordagem estatística clássica com ajuste linear, splines e calibração.  |
 | `perceptron_mlp_cnn.ipynb`     | Abordagem computacional com Perceptron e MLP implementados em Keras.     |
 | `multilayer_perceptron.ipynb`  | Treinamento e avaliação detalhada de uma MLP com duas camadas ocultas.   |
 | `mlp.ipynb`                     | Script alternativo com foco na arquitetura e visualização de métricas.   |
 | `aed.ipynb`                     | Análise exploratória dos dados (limpeza, transformação e visualização).  |
-| `Supervised_Learning_All_Days.pdf` | Material teórico de apoio (ML, VC-dim, otimização, teoria dos modelos). |
+| `presentation_supervised_learning.pdf` | Material teórico de apoio (ML, VC-dim, otimização, teoria dos modelos). |
 
 ## 📊 Base de Dados
 
@@ -87,4 +87,3 @@ Projeto desenvolvido por [Pedro Brom](https://github.com/pcbrom), George Fabríc
 Programa de Pós-Graduação em Informática (PPGI) – Universidade de Brasília
 
 ---
-
